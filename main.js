@@ -1,0 +1,1 @@
+// JS dapat dipindah ke sini jika dipecah dari HTML utama
